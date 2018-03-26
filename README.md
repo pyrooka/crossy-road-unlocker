@@ -1,5 +1,5 @@
 # crossy-road-unlocker
-Unlock all character, get coins and modify highscore in the Android game Crossy Road.
+Unlock all character, get coins and modify highscore in the Android game [Crossy Road](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad).
 ## Usage
 Download and install the APK from the releases or generate it yourself.
 
